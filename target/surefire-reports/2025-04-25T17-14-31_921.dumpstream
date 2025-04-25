@@ -1,0 +1,5 @@
+# Created at 2025-04-25T17:14:32.038
+Boot Manifest-JAR contains absolute paths in classpath 'D:\1_Himanshu_Kr\exPRI\webhook-solver\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
